@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Callum Bolton",
+        "description": "Ui/Ux Designer ",
+        "Text": "Nulla pulvinar felis ipsum. Nulla facilisi. Duis placerat erd urna Lorem ipsum dolor sit amet con adipiscing elit. Proin gravida orc pulvinar aliquet.",
+        "color": "#F4ECE0" ,
+        "image": "./images/Person1.png",
+        "star": "./images/star.png"
+
+        
+    },
+    {
+        "title": "Ethan Brooks",
+        "description": "Ui/Ux Designer ",
+        "Text": "Nulla pulvinar felis ipsum. Nulla facilisi. Duis placerat erd urna Lorem ipsum dolor sit amet con adipiscing elit. Proin gravida orc pulvinar aliquet.",
+        "color": "#E3F8FA",
+        "image": "./images/Person2.png",
+        "star": "./images/star.png"
+        
+    }
+  ]

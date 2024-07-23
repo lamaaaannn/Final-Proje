@@ -1,0 +1,23 @@
+[
+  {
+      "title": "App Design",
+      "description": "Praesent placeratred egestas egestas cras rhoncus magna rutrum tellus laoreet",
+      "buttonText": "Learn More",
+      "color": "#E0F7FA", 
+      "icon": "./images/icon1.svg"
+  },
+  {
+      "title": "Web Design",
+      "description": "Praesent placeratred egestas egestas cras rhoncus magna rutrum tellus laoreet",
+      "buttonText": "Learn More",
+      "color": "#FFF3E0", 
+      "icon": "./images/icon2.svg" 
+  },
+  {
+      "title": "Web Development",
+      "description": "Praesent placeratred egestas egestas cras rhoncus magna rutrum tellus laoreet",
+      "buttonText": "Learn More",
+      "color": "#F3E5F5",
+      "icon": "./images/icon3.svg" 
+  }
+]

@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.boxs{
+    width: 100%;
+    height: 60vh;
+    flex-wrap: wrap;
+
+display: flex;
+align-items: center;
+margin-top: 150px;
+justify-content: space-around;
+}
+.designbox{
+   position: relative;
+    padding-top: 20px;
+    width: 360px;
+    height: 390px;
+    border-radius: 8px;
+   
+}
+.designbox:hover{
+    transform: translateY(50px);
+    transition: 0.3s;
+}
+.designbox p{
+    color:#6B625E ; 
+}
+.designbox a{
+    color: #241008;
+}
+.designbox > div{
+   display: flex;
+   flex-direction: column;
+   gap: 40px;
+}
+@media (max-width: 768px){
+    .boxs{
+        margin-bottom: 130px;
+    }
+ }
