@@ -1,4 +1,4 @@
-import "./Idea.css"
+import "../styles/Idea.css"
 function Idea() {
     return (
         <div className="user2" >

@@ -70,6 +70,17 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 }
+.btns{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  gap: 20px;
+}
+.btns button{
+  width: 70px;
+  height: 30px;
+}
 @media (max-width: 768px) {
   .boxs {
     margin-bottom: 130px;

@@ -1,4 +1,4 @@
-import "./Proje.css"
+import "../styles/Proje.css"
 function Proje() {
     return (
     <div className="proje"> 

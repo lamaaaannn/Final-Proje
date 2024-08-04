@@ -1,4 +1,4 @@
-import "./LandingPages.css"
+import "../styles/LandingPages.css"
 function LandingPages() {
     return (
 <div className="lands">

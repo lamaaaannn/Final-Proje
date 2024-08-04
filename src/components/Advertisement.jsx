@@ -1,4 +1,4 @@
-import "./Advertisement.css"
+import "../styles/Advertisement.css"
 function Advertisement() {
    return(
    <div className="images">

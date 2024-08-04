@@ -1,4 +1,4 @@
-import "./User.css"
+import "../styles/User.css"
 function User() {
     return (
         <div className="user" >

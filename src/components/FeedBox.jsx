@@ -1,5 +1,5 @@
-import "./FeedBox.css"
-import feedback from "../src/feedback.json"
+import "../styles/FeedBox.css"
+import feedback from "../feedback.json"
 
 function FeedBox() {
     return (

@@ -1,0 +1,23 @@
+[
+   
+    {
+        "title": "Watch - Product Responsive Landing Page",
+        "color": "#E0F7FA", 
+        "image": "./images/Landing.png" 
+    },
+    {
+        "title": "SEO Agency - Creative Landing Page",
+        "color": "#FFF3E0", 
+        "image": "./images/Digital.png" 
+    },
+    {
+        "title": "MDCL - Medical Landing Page",
+        "color": "#E0E6F4", 
+        "image": "./images/MedicalService.png" 
+    },
+    {
+        "title": "E-Online - Education Landing Page",
+        "color": "#F3E5F5", 
+        "image": "./images/OnlineLearning.png" 
+    }
+  ]

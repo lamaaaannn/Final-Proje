@@ -1,5 +1,5 @@
-import "./DesignBoxs.css"
-import manifest from "../src/manifest.json"
+import "../styles/DesignBoxs.css"
+import manifest from "../manifest.json"
 function DesignBoxs() {
    return (
    <div className="boxs">

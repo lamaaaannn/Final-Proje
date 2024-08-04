@@ -1,5 +1,5 @@
-import "./Feedback.css"
-import feedback from "../src/feedback.json"
+import "../styles/Feedback.css"
+
 // import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 // import { fa-arrow-left } from '@fortawesome/free-solid-svg-icons';
 function Feedback() {

@@ -1,4 +1,4 @@
-import "./Script.css"
+import "../styles/Script.css"
 
 function Script() {
    return (
