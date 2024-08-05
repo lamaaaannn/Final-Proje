@@ -13,7 +13,7 @@
         "buttonText": "Learn More",
         "color": "#FFF3E0", 
         "icon": "./images/icon2.svg", 
-        "path":"/appdesign"
+        "path":"/appdesign2"
     },
     {
         "title": "Web Development",
@@ -29,7 +29,7 @@
         "buttonText": "Learn More",
         "color": "#FFE6E2",
         "icon": "./images/icon4.png", 
-        "path":"/appdesign"
+        "path":"/appdesign2"
     },
     {
         "title": "Visual Design",
@@ -45,6 +45,6 @@
         "buttonText": "Learn More",
         "color": "#E2FAE3",
         "icon": "./images/icon6.png", 
-        "path":"/appdesign"
+        "path":"/appdesign2"
     }
   ]

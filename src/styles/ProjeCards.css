@@ -53,3 +53,10 @@ padding-top: 30px;
             gap: 300px;
            }
         }
+.container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 50px;
+}

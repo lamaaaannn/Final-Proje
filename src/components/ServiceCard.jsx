@@ -12,6 +12,7 @@ function ServiceCard() {
           tellus laoreet
         </p>
       </div>
+      <div className="container">
       {serviceCard.map((e, index) => (
         <div
           style={{ backgroundColor: e.color }}
@@ -27,7 +28,9 @@ function ServiceCard() {
             <Link to={e.path}>{e.buttonText}</Link>
           </div>
         </div>
-      ))}{" "}
+      ))}
+      </div>
+      {" "}
       <br />
       <div className="btns">
         <button>1</button>

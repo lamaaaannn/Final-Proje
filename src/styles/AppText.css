@@ -26,3 +26,6 @@ font-family: Poppins;
 font-size: 18px;
 font-weight: 400;
 }
+.appText image{
+    background-size: cover;
+}

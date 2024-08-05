@@ -86,3 +86,8 @@ font-weight: 400;
     margin-bottom: 130px;
   }
 }
+.container{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
