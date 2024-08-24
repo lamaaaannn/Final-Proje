@@ -1,5 +1,6 @@
 import "../styles/ProjeCards.css"
 import ProjeCard from "../projeCard.json"
+import { Link } from 'react-router-dom';
 
 function ProjeCards() {
     return (
@@ -12,8 +13,9 @@ function ProjeCards() {
 {ProjeCard.map((e,index)=>(
 
 <div style={{backgroundColor:e.color}} className="item1">
-    <h1>{e.title}</h1>
- <img src={e.image} alt="" srcset="" />
+<h1>{e.title}</h1>
+    <Link to={e.path}> <img src={e.image} alt="" srcset="" /></Link>
+ 
 </div>
 
     ))}

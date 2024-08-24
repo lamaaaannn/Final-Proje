@@ -1,10 +1,11 @@
 import "../styles/BlogCard.css"
 import Blogcards from "../blogcards.json"
+import { Link } from 'react-router-dom';
 function BlogCard() {
     return (
         <div >
             <div className="btnText">
-        <h2>Our Projects</h2>
+        <h2>Our Blogs</h2>
         <p>Praesent placerated egestas egestas cras rhone <br /> magna rutrum tellus laoreet</p>
         </div>
         <div className="contain">
@@ -12,7 +13,8 @@ function BlogCard() {
 
 <div style={{backgroundColor:e.color}} className="obj1">
  <img src={e.image} alt="" srcset="" />
- <button>{e.button}</button>
+
+ <Link to={e.path}> <button>{e.button}</button></Link>
  <h2>{e.title}</h2>
  <span>{e.date}</span>
 </div>

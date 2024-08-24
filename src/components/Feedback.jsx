@@ -4,7 +4,7 @@ import "../styles/Feedback.css"
 // import { fa-arrow-left } from '@fortawesome/free-solid-svg-icons';
 function Feedback() {
     return (
-    <div>
+    <div className="feedbacks">
         <div className="feedback"> 
 
         <div className="text-feedback">

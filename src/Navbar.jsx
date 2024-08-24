@@ -25,7 +25,9 @@ const Navbar = () => {
             About
           </NavLink>
         </div>
-        <button>Contact</button>
+        <button> <NavLink className="li" to="/Contact">
+            Contact
+          </NavLink></button>
         <img className="menu" src="./images/menu.svg" alt="" />
       </div>
     </div>

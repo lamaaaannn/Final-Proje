@@ -2,7 +2,7 @@ import "../styles/DesignBoxs.css"
 import manifest from "../manifest.json"
 function DesignBoxs() {
    return (
-   <div className="boxs">
+   <div className="boxxs">
     {manifest.map((e,index)=>(
  <div style={{backgroundColor:e.color}} key={index} className="designbox">
 

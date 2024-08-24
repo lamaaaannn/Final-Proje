@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contest{
+    display: flex;
+    flex-wrap: wrap;
+   align-items: center;
+   justify-content: space-around;
+    gap: 50px;
+    width: 90%;
+    background-color: #F4ECE0;
+    padding: 30px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+    
+}
+.part{
+    width: 30%;
+    display: flex;
+    margin: 0 auto;
+  gap: 80px;
+    & img{
+        width: 60px;
+        height: 60px;
+    }
+}

@@ -3,7 +3,7 @@ import feedback from "../feedback.json"
 
 function FeedBox() {
     return (
-        <div className="boxs" >
+        <div className="boks" >
 
         {feedback.map((e,index)=>(
         
