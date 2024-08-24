@@ -1,12 +1,12 @@
 
-import Header11 from "../components/Header11.jsx";
+import Header2 from "../components/Header2.jsx";
 import Contacts from "../components/Contacts.jsx";
 import Message from "../components/Message.jsx";
 import Footer from "../components/Footer.jsx";
 function Contact() {
     return (
         <div>
-           <Header11/>
+           <Header2 title="Contact" subtitle1="Home" subtitle2=" Contact"/>
            <Contacts/>
            <Message/>
            <Footer/>

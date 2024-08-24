@@ -6,10 +6,10 @@ import Footer from "../components/Footer.jsx"
 function Services() {
     return (
         <div>
-        <Header2/>
+        <Header2 title="Services" subtitle1="Home" subtitle2="Services"/>
         <ServiceCard/>
         <Script/>
-        <Footer/>
+        <Footer/>lll
         </div>
     )
 }
