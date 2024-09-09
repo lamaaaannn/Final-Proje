@@ -36,7 +36,7 @@ justify-content: space-around;
    flex-direction: column;
    gap: 40px;
 }
-@media (max-width: 768px){
+@media (max-width: 576px){
     .boxs{
         margin-bottom: 130px;
     }

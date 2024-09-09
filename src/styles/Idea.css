@@ -107,7 +107,7 @@ font-size: 18px;
     left: 200px;
    
 }
-@media (max-width: 768px){
+@media (max-width: 576px){
     .user2 .description2,.user2 .view2{
    display: none;
     }

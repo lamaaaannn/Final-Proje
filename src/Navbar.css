@@ -13,9 +13,19 @@
 }
 .links {
   display: flex;
+  align-items: center;
+  justify-content: center;
   gap: 20px;
+
+ 
 }
 .links .li {
+  width: 80%;
+  display: flex;
+ 
+  margin-top: 20px;
+  align-items: center;
+  justify-content: center;
   text-decoration: none;
   color: black;
 }

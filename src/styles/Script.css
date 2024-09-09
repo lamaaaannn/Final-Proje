@@ -45,7 +45,7 @@ font-weight: 400;
     border: none;
     background-color: #FF733B;
 }
-@media (max-width: 768px){
+@media (max-width: 576px){
    .inp{
     width: 150%;
 

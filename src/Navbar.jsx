@@ -24,10 +24,11 @@ const Navbar = () => {
           <NavLink className="li" to="/About">
             About
           </NavLink>
-        </div>
-        <button> <NavLink className="li" to="/Contact">
+          <button className="button"> <NavLink  to="/Contact">
             Contact
           </NavLink></button>
+        </div>
+     
         <img className="menu" src="./images/menu.svg" alt="" />
       </div>
     </div>
