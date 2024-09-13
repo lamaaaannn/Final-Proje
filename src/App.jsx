@@ -4,6 +4,7 @@ import Navbar from "./Navbar";
 import Home from "./pages/Home";
 import Services from "./pages/Services";
 import Projects from "./pages/Projects";
+import Blogdesign from './components/Blogdesign'; 
 import Blog from './pages/Blog';
 import About from './pages/About';
 import Contact from './pages/Contact';
@@ -14,7 +15,7 @@ import ProjeDetail1 from "./pages/ProjeDetail1";
 import ProjeDetail2 from "./pages/ProjeDetail2";
 import ProjeDetail3 from "./pages/ProjeDetail3";
 import ProjeDetail4 from "./pages/ProjeDetail4";
-import Design from "./pages/Design";
+import Design from "./components/Blogdesign";
 const App = () => {
   return (
     <div className="main">
@@ -30,7 +31,7 @@ const App = () => {
         <Route path="/projedetail2" element={<ProjeDetail2/>} />
         <Route path="/projedetail3" element={<ProjeDetail3/>} />
         <Route path="/projedetail4" element={<ProjeDetail4/>} />
-        <Route path="/design" element={<Design/>} />
+        <Route path="/blogdesign/:id" element={<Blogdesign/>} />
         <Route path="/contact" element={<Contact/>} />
         <Route path="/about" element={<About/>} />
       </Routes>

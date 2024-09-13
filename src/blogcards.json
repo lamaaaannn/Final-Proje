@@ -5,41 +5,41 @@
         "color": "#FFF3E0",
         "date":"21 August 2022",
         "image": "./images/blog1.png" ,
-        "path" : "./design"
+        "path" : "./blogdesign"
     },
     {   "button":"TRAVEL",
         "title": "The loss is not all that of surprising things",
         "color": "#FFF3E0", 
         "date":"22 August 2022",
         "image": "./images/blog2.png",
-        "path" : "./design"
+        "path" : "./blogdesign"
     },
     {   "button":"FASHION",
         "title": "Should Fixing Fashion Take 100 Steps?",
         "color": "#FFF3E0",
         "date":"23 August 2022",
         "image": "./images/blog3.png" ,
-        "path" : "./design"
+        "path" : "./blogdesign"
     },
     {    "button":"CREATIVE",
         "title": "Top 6 Ways To Buy A Used Fashion",
         "color": "#FFF3E0",
         "date":"24 August 2022",
         "image": "./images/blog4.png" ,
-        "path" : "./design"
+        "path" : "./blogdesign"
     },
     {   "button":"DESIGN",
         "title": "Travel And Love Have 9 Things In Common",
         "color": "#FFF3E0",
         "date":"25 August 2022",
         "image": "./images/blog5.png" ,
-        "path" : "./design"
+        "path" : "./blogdesign"
     },
     {   "button":"TRAVEL",
         "title": "Best Fashion Tips You Will Read This Year",
         "color": "#FFF3E0",
         "date":"26 August 2022",
         "image": "./images/blog6.png" ,
-        "path" : "./design"
+        "path" : "./blogdesign"
     }
   ]
