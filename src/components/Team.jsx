@@ -7,7 +7,8 @@ function Team() {
         
         <div className="designers">
             <div className="designer">
-                <img src="https://s3-alpha-sig.figma.com/img/1900/7629/3e15084891a254d2b68f072d7376a44c?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X236DKAhXXJS01QV8JPzS5nV6ZfIczKVlBHKNKAOeLsp4GHavp7esv96~Iyi7Ge8doXELOdxN~iQ2b-4YdFHvDGPW6H4eKzIXQlTqP2PWrU8hcLMH5BzG3pDgcJzfs4GOu-cXk4KdfOiE5aKCzTbrQlURlNqhnFiWkYaJri0yF0~G7-0q-Tj38vtmsg9PchIHyWN264MoPDnyQGvBV8RM3Zqc1m3y8BDAzguVnIiAkubBcwLk7W43egLdBGVvegs7Ez1Kw1xVRViUlBMmj07jnZlufF8WkXGN3sVQAtl7Vx1xaDY4FRJCtyUR0YFkbLVNYeKxmjKbs3Cunqn6VFVgA__" alt="" />
+            <img src="https://s3-alpha-sig.figma.com/img/a333/a5ac/2b6555fdb5e6355a1ebcc368cdcd1112?Expires=1724630400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CQRjTAt0DwFVmvRudxDx6vnoICqC9C0~zkv9ZvynUoStINlteHhcqExXMpuzyQ41sb0XbpcOYlv1w2B~tA~Bnw~HaX6woS2rdWrc41NMgq-HytPFNkb88TojdXUicyKru~v-5n7k07rWhI53NpS2xb0jGM1wEy0hwIlCJU2N07PJmjJ5ISZ2bOLXtZLwUAMz1gG8jc9qLVRiAYiAqTikANxR~JaUl~2CrMXFJ73qdtvbcI3E8Y0d4ekdDZ~IGpx8Xfw-DMheArApruUN9Bl5~DskFU6r0xHat6zdM47mg-uw5bCqeg811frx2JmRF4vnnUa-6jAQNBAhAXEQ0gLYIA__" alt="" />
+
                 <h2>Gabriel Wood</h2>
                 <p>Web Designer</p>
             </div>
